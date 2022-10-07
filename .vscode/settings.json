@@ -1,0 +1,14 @@
+{
+  "python.formatting.provider": "black",
+  "python.formatting.blackArgs": ["-l", "80"],
+  "python.linting.flake8Enabled": true,
+  "python.linting.flake8Args": ["--max-line-length", "80"],
+  "python.linting.lintOnSave": true,
+  "[python]": {
+    "editor.formatOnSave": true,
+    "editor.formatOnPaste": false
+  },
+  "git.autofetch": true,
+  "git.suggestSmartCommit": false,
+  "cSpell.words": ["nltk", "pynum", "sklearn", "stopwords", "Vectorizer"]
+}
