@@ -10,5 +10,16 @@
   },
   "git.autofetch": true,
   "git.suggestSmartCommit": false,
-  "cSpell.words": ["nltk", "pynum", "sklearn", "stopwords", "Vectorizer"]
+  "cSpell.words": ["nltk", "pynum", "sklearn", "stopwords", "Vectorizer"],
+  "files.exclude": {
+    "**/.git": true,
+    "**/.svn": true,
+    "**/.hg": true,
+    "**/CVS": true,
+    "**/.DS_Store": true,
+    "**/Thumbs.db": true,
+    "**/.venv": true,
+    "**/__pycache__": true,
+    "**/.pytest_cache": true
+  }
 }
