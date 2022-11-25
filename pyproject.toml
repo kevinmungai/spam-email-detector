@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "spam-email-detector"
-version = "0.1.0"
+version = "0.1.1"
 description = ""
 authors = ["Kevin <mungaikamau7@gmail.com>", "Alex <>", "Zafir <>", "Josheph <>", "Anthony <>"]
 readme = "README.md"
